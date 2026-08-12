@@ -1,35 +1,34 @@
-# research-data-vault
+# Research Data Vault 🧠📊
 
-[English](#english) | [Italiano](#italiano)
-
----
-
-<a name="english"></a>
-## English
-
-A personal repository for code, scripts, and data analysis workflows.
-
-This repository tracks my learning progress in Python: from programming fundamentals and data manipulation to future applications in psychometrics and neuroscience.
-
-### Contents
-* **Python Foundations:** Data structures, control flow, functions, and quantitative calculations.
-* **Data Analysis:** Data manipulation, processing, and visualization.
-* **Research Projects:** Notebooks, experimental scripts, and data models.
+**Author:** Riccardo Isca  
+**Domain:** Computational Psychometrics & Cognitive Neuroscience  
 
 ---
 
-<a name="italiano"></a>
-## Italiano
-
-Archivio personale di codice, script e algoritmi per la gestione e l'analisi dei dati.
-
-Questo repository raccoglie il mio percorso di apprendimento in Python: dai fondamenti della programmazione fino alle future applicazioni in ambito psicometrico e neuroscientifico.
-
-### Contenuti
-* **Fondamenti di Python:** Strutture dati, cicli, funzioni e calcoli quantitativi.
-* **Analisi Dati:** Manipolazione, elaborazione e visualizzazione dati.
-* **Progetti di Ricerca:** Notebook, script sperimentali e modelli di dati.
+### 🔍 Overview
+**Research Data Vault** is the official portfolio repository for my primary, production-ready Python projects. Designed to bridge psychological science with quantitative data analysis, this space houses rigorously documented scripts, data models, and experimental workflows built for academic research and professional application.
 
 ---
-**License / Licenza:** GNU General Public License v3.0  
-**Author / Autore:** Riccardo Isca
+
+### 📂 Repository Architecture
+
+| Module / Directory | Core Focus & Methodologies |
+| :--- | :--- |
+| **`foundations/`** | Core programming logic, data structures, and foundational algorithms implemented from scratch. |
+| **`data-analysis/`** | Behavioral data manipulation, statistical processing pipelines, and quantitative data visualization. |
+| **`research-projects/`** | End-to-end experimental scripts, psychometric modeling, and neuroscience data simulations. |
+
+---
+
+### 🛠 Technical Stack
+* **Language:** Python 3 (Object-Oriented Programming, NumPy, Pandas-ready workflows).
+* **Environment:** Google Colab, Jupyter Notebooks, VS Code.
+* **Version Control & Quality:** Git, GitHub, clean Markdown documentation, strict code modularity.
+
+---
+
+### 📬 Connect & Academic Inquiries
+* **GitHub Profile:** [riccardoisca-neuro](https://github.com/riccardoisca-neuro)
+* **Context:** Undergraduate Student in Psychological Sciences & Techniques (L-24) @ Sapienza University of Rome.
+
+*License: GNU General Public License v3.0*
